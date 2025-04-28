@@ -69,6 +69,19 @@
     },
     "motivations": "To uphold the cause",
     "objectives": "We fight for the causes we believe in",
-    "qualifications": "The best"
+    "paymentAddress": "addr_test1qr2c4k4zlych7qng2egjqmct5x03qshevmlemldykx8n3zmyyrjz7gnl09gp3yr23cwpwp9kszksps546zjchvmsfhnssu2sm4",
+    "qualifications": "The best",
+    "references": [
+      {
+        "@type": "Link",
+        "label": "Twitter",
+        "uri": "https://x.com/oshalusijohn"
+      },
+      {
+        "@type": "Identity",
+        "label": "Website",
+        "uri": "https://www.johnoshalusi.com/"
+      }
+    ]
   }
 }
