@@ -64,7 +64,7 @@
     "givenName": "greatertomi",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://avatars.githubusercontent.com/u/48496855?v=4",
+      "contentUrl": "https://avatars.githubusercontent.com/u/48496855",
       "sha256": "7e25a87e0cd5bce00e6fe8ef64ed5931b40ca14e47ab25abd57b4b936e2a4080"
     },
     "motivations": "To uphold the cause",
