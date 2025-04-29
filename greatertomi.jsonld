@@ -64,24 +64,8 @@
     "givenName": "greatertomi",
     "image": {
       "@type": "ImageObject",
-      "contentUrl": "https://avatars.githubusercontent.com/u/48496855",
-      "sha256": "7e25a87e0cd5bce00e6fe8ef64ed5931b40ca14e47ab25abd57b4b936e2a4080"
-    },
-    "motivations": "To uphold the cause",
-    "objectives": "We fight for the causes we believe in",
-    "paymentAddress": "addr_test1qr2c4k4zlych7qng2egjqmct5x03qshevmlemldykx8n3zmyyrjz7gnl09gp3yr23cwpwp9kszksps546zjchvmsfhnssu2sm4",
-    "qualifications": "The best",
-    "references": [
-      {
-        "@type": "Link",
-        "label": "Twitter",
-        "uri": "https://x.com/oshalusijohn"
-      },
-      {
-        "@type": "Identity",
-        "label": "Website",
-        "uri": "https://www.johnoshalusi.com/"
-      }
-    ]
+      "contentUrl": "",
+      "sha256": "4e3b5e0c071d6d379497452f21b8bdf23ed177445b6289f8309055b77733cfdb"
+    }
   }
 }
